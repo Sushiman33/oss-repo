@@ -1,4 +1,4 @@
-1. Link to license. https://github.com/Sushiman33/oss-repo/blob/main/LICENSE 
+1.Link to license. https://github.com/Sushiman33/oss-repo/blob/main/LICENSE 
 
 3.It is important to choose a license because it defines all the aspects of how it can be used and who can use it if at all. There are licesnes that only allow for private use and others that allow for the code to be used anywhere. The license also defines if people can modify the code at all and all of the conditions that come along with doing that as well as defining if it can be used for profit.
 
@@ -8,7 +8,7 @@
 
 6.Linux uses the GPL v2 license since it prevents sublicenses which means that modifiers to Linux must also use an open source License. This makes a lot of sense for Linux since they were always een as an alternative to Windows and MacOS and is perhaps the most notable and important projects for open source in general.
 
-for part 7 :https://github.com/MattCzyr/Lab04
+For part 7 :https://github.com/MattCzyr/Lab04
 
 8.
 Website | License Present | License
