@@ -4,6 +4,7 @@ Successful building of the project
  * <img src="https://cdn.discordapp.com/attachments/366025595257225229/826238711066656788/checkpoint1buildagain.JPG" width="700">
 
 ## Checkpoint2
+ The error encountered was common for similar systems. These systems were not updated in the dashboard when taking the screenshot but were later.
  * <img src="https://cdn.discordapp.com/attachments/366025595257225229/826240879626944522/checkpoint2.JPG" width="700">
  * <img src="https://cdn.discordapp.com/attachments/366025595257225229/826240881425907732/checkpoint201.JPG" width="700">
 
