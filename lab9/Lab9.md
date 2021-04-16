@@ -29,6 +29,7 @@ Results for fetch one record, fetching a specific record, fetch a record by id, 
 ### Checkpoint 5
 Link to [checkpoint5.py](https://github.com/Sushiman33/mongodb_lab/blob/master/checkpoint5.py) 
 
+Got lucky with Sagie repeating very early on
  * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832424012084019201/Check5.JPG" width="800">
-
+Lookup of Sagie
  * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832424013388841000/Check5_2.JPG" width="800">
