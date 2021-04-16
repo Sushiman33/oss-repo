@@ -19,11 +19,11 @@ The part of the git diff that matters is highlighed.(there was some other issues
 Link to [checkpoint4.py](https://github.com/Sushiman33/mongodb_lab/blob/master/checkpoint4.py) 
 
 The fetch all records, and a selection of parts as it was very long
- * <img src="https://cdn.discordapp.com/attachments/517856229326848001/832427455158812762/Check4_1.JPG" width="800">
- * <img src="https://cdn.discordapp.com/attachments/517856229326848001/832427456920944700/Check4_2.JPG" width="800">
- * <img src="https://cdn.discordapp.com/attachments/517856229326848001/832427457826783232/Check4_21.JPG" width="800">
+ * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832432706766897152/Check4_1.JPG" width="800">
+ * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832432708205674596/Check4_2.JPG" width="800">
+ * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832432713226125312/Check4_21.JPG" width="800">
 Results for fetch one record, fetching a specific record, fetch a record by id, and inserting a new record
- * <img src="https://cdn.discordapp.com/attachments/517856229326848001/832428214554067014/Check4_3.JPG" width="800">
+ * <img src="https://cdn.discordapp.com/attachments/366025595257225229/832432734520868884/Check4_3.JPG" width="800">
 
 
 ### Checkpoint 5
